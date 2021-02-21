@@ -137,6 +137,8 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+# Ignore large files
+. -size +100M
 
     © 2021 GitHub, Inc.
     Terms
