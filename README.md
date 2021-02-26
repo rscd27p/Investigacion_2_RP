@@ -7,7 +7,7 @@ The follwing repository has two jupyter notebook:
 
 The **Part I** requires to download the dataset which is 600 MB from [here](https://www.kaggle.com/akulbahl/covid19-airline-flight-delays-and-cancellations). This would download a zip file named **archive.zip**, download it in the main folder to keep the following file structure:
 
-├── archive <br\>
+├── archive <br/>
 │   ├── ColumnDescriptions.txt <br/>
 │   └── jantojun2020.csv <br/>
 ├── cleaned_FL_data.csv <br/>
